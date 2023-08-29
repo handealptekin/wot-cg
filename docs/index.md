@@ -6,10 +6,8 @@ nav_order: 1
 
 # What is WoT
 
-{: .no_toc }
-
-Welcome to the page "What is WoT".
 {: .fs-6 .fw-300 }
+Welcome to the page "What is WoT".
 
 Throughout this webpage, we will explain the Web of Things, its applications and tools for newcomers.
 
