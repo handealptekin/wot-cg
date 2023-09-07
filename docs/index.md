@@ -18,7 +18,7 @@ nav_order: 1
   <nav class="navbar">
     <!-- LOGO -->
     <div class="logo">
-      <img id="logo" src ="/assets/images/logo-mini-blue.svg" >
+      <svg id="logo" src ="/wot-cg/docs/assets/images/logo-mini-blue.svg"> </svg>
     </div>
 
     <ul class="nav-links">
@@ -28,6 +28,7 @@ nav_order: 1
         <li><a href="https://github.com/w3c/wot-cg">Github</a></li>
       </div>
     </ul>
+
   </nav>
 
   <div class="container">
@@ -43,7 +44,6 @@ nav_order: 1
       <button id="start-tutorial-button"><a href="whatiswot.html">Start the Tutorial</a></button>
       <br>
   </div>
-
 
 </body>
 
